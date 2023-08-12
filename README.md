@@ -1,6 +1,6 @@
 # Unsup-Segmentation
 
-This repository contains code that was a part of the project "SEGMENTATION AND CLASSIFICATION OF SKIN LESION IMAGES USING DEEP LEARNING BASED TECHNIQUES", published as part of my final year project. This was an experiment to create an unsupervised segmentation pipeline that can create segmentation masks of any given skin lesion image from the ISIC datasets. Although this was predominantly tested on the 2016 and 2017 datasets, this can be extended to latter datasets as well. These are the results tested on the 2016 dataset.
+This repository contains code that was a part of the project "SEGMENTATION AND CLASSIFICATION OF SKIN LESION IMAGES USING DEEP LEARNING BASED TECHNIQUES", published as part of my [final year project](https://drive.google.com/file/d/176D-SWsVus7_6dfPSnIhaun2YDx_5Nv_/view?usp=sharing). This was an experiment to create an unsupervised segmentation pipeline that can create segmentation masks of any given skin lesion image from the ISIC datasets. Although this was predominantly tested on the 2016 and 2017 datasets, this can be extended to latter datasets as well. These are the results tested on the 2016 dataset.
 
 ![image](https://github.com/DevBhuyan/Unsup-Segmentation/assets/55915667/7f81729b-cd6f-45c8-a387-ce8cd9846ea4)
 
