@@ -8,8 +8,8 @@ The complete pipeline will require you to run the "mask_generator.py" file first
 
 You can download the original ISIC 2016 dataset from https://challenge.isic-archive.com/data/. Or you can try this on your own dataset. To run `metrics`, you'll need to have reference masks against which the generated masks will be compared.
 
-You can play with "permute_channels.py" to get an idea of how the different channels interact when combined. 
+You can play with `permute_channels.py` to get an idea of how the different channels interact when combined. 
 
-"mask_overlay.py" will help you draw the mask outlines on the original images so that you can have a better idea of how the algorithm is performing.
+`mask_overlay.py` will help you draw the mask outlines on the original images so that you can have a better idea of how the algorithm is performing.
 
 Feel free to play around with the code. Also make sure to modify the directory locations as required.
